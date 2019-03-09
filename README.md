@@ -6,6 +6,6 @@ Se automatizó la toma y clasificación de los datos disponibles para los más d
 
 A la vez se contempló la continuación del script en caso de llegar a una dirección web que devolviese un error.
 
-A la vez se tomó en cuenta la toma de nuevos datos y/o nueva clasificación, sin borrar los datos previamente tomados.
+También se tomó en cuenta la toma de nuevos datos y/o nueva clasificación, sin borrar los datos previamente tomados.
 
 ![Alt Text](https://github.com/franhace/FormusWebScraper/blob/master/img/Index.png)
