@@ -28,7 +28,7 @@ def limpiar_string_url(a):
 # Funciones para conseguir exactamente los datos
 # que queremos
 
-datos = [] # Lista de todos los datos recabados
+datos = []  # Lista de todos los datos recabados
 # No se usa mas
 
 
@@ -207,6 +207,8 @@ def datear_url(w):
 
     return data
 
+# Se fija si hubo un error en la pag, para evitar
+# que se corte la adquisicion de datos
 
 def server_error(uu):
 
